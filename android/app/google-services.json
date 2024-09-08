@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831676593114",
+    "project_id": "lavenda-app",
+    "storage_bucket": "lavenda-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831676593114:android:3964b985b28423591486e3",
+        "android_client_info": {
+          "package_name": "com.fizza.lavenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGHG6ttXBAxi-EpNtXgfz4enKlIC0sL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
