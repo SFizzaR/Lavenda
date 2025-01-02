@@ -49,3 +49,9 @@ If you would like to contribute to this project, feel free to fork the repositor
 ---
 
 ### Screenshots 
+
+Frontpage
+![Frontpage](assets/screenshots/PHOTO-2024-07-12-15-34-07.JPG)
+
+Login page
+![Login page](assets/screenshots/403955A9-D2E9-4336-A027-91A26B5DBE9D.png)
