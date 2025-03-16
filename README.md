@@ -1,16 +1,11 @@
-# 🪻Lavenda - Journaling App (Frontend Only) 🪻 
+# 🪻 Lavenda - Journaling App (Frontend Only)  
 
 **Lavenda** is a Flutter-based journaling app designed to help users track their moods, maintain a daily journal, and record gratitude logs. While the front-end is fully developed, backend integration (intended to use Firebase) has not been implemented due to technical constraints.  
 
-## ✨ Features ✨
+## ✨ Features✨
 - **😊 Mood Tracker** – Log your mood throughout the day.  
 - **📖 Journal** – Write and save personal entries.  
 - **💖 Gratitude Log** – Keep a record of things you're grateful for.  
-
-## 🚀 Current Status  
-- The app's front-end is fully functional.  
-- Backend (Firebase) was planned but not implemented.  
-- Data does not persist beyond the session.  
 
 ## 🛠️ Tech Stack  
 - **Flutter** – UI framework  
@@ -18,7 +13,7 @@
 - **Android Studio / VS Code** – Development environments  
 - **Firebase (Planned)** – For authentication and data storage  
 
-## 🏗️ Installation & Setup  
+## 🚀 Installation
 1. Clone the repository:  
    ```bash
    git clone https://github.com/SFizzaR/Lavenda
@@ -29,7 +24,6 @@
    ```bash
    flutter run
    ```  
-
 ## ⚠️ Known Issues  
 - No backend implementation (Firebase).  
 - Data is not stored permanently.  
