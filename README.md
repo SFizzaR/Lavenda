@@ -1,57 +1,43 @@
-# Lavenda - Journaling App (Frontend Only)
+# 🪻Lavenda - Journaling App (Frontend Only) 🪻 
 
-**Lavenda** is a Flutter-based journaling app that was designed to help users track their moods, maintain a daily journal, and record gratitude logs. Although the app's front-end development is complete, the backend integration (using Firebase) has not been fully implemented due to certain technical challenges.
+**Lavenda** is a Flutter-based journaling app designed to help users track their moods, maintain a daily journal, and record gratitude logs. While the front-end is fully developed, backend integration (intended to use Firebase) has not been implemented due to technical constraints.  
 
-### Features
-- **Mood Tracker**: Track your mood at different times of the day.
-- **Journal**: Write and save journal entries.
-- **Gratitude Log**: Keep a log of things you're grateful for, promoting a positive mindset.
+## ✨ Features ✨
+- **😊 Mood Tracker** – Log your mood throughout the day.  
+- **📖 Journal** – Write and save personal entries.  
+- **💖 Gratitude Log** – Keep a record of things you're grateful for.  
 
-### Current Status
-The app is currently functional on the front-end but lacks a backend to store data. Firebase was intended to be used for the backend to store user data and sync it across devices, but due to issues with setting up the backend, this feature has not been completed. As of now, the app is only functional on the front-end side.
+## 🚀 Current Status  
+- The app's front-end is fully functional.  
+- Backend (Firebase) was planned but not implemented.  
+- Data does not persist beyond the session.  
 
-### Technology Stack
-- **Flutter**: Front-end development
-- **Dart**: Programming language
-- **Firebase (Intended)**: Backend (Not implemented due to issues)
-- **Android Studio**: Development environment
-- **VS Code**: Code editor
+## 🛠️ Tech Stack  
+- **Flutter** – UI framework  
+- **Dart** – Programming language  
+- **Android Studio / VS Code** – Development environments  
+- **Firebase (Planned)** – For authentication and data storage  
 
-### Setup Instructions
-1. Clone this repository to your local machine:
+## 🏗️ Installation & Setup  
+1. Clone the repository:  
    ```bash
-   git clone <https://github.com/SFizzaR/Lavenda>
-   ```
-
-2. Open the project in your preferred IDE (e.g., Android Studio or VS Code).
-
-3. Make sure you have Flutter installed on your machine. You can install Flutter by following the instructions on the [Flutter installation page](https://flutter.dev/docs/get-started/install).
-
-4. Run the app on an emulator or physical device:
+   git clone https://github.com/SFizzaR/Lavenda
+   ```  
+2. Open the project in **Android Studio** or **VS Code**.  
+3. Ensure Flutter is installed ([Installation Guide](https://flutter.dev/docs/get-started/install)).  
+4. Run the app on an emulator or physical device:  
    ```bash
    flutter run
-   ```
+   ```  
 
-### Known Issues
-- **Backend Not Implemented**: Firebase integration for storing data and syncing user data across devices has not been completed.
-- **Incomplete Features**: While the front-end features like the mood tracker, journal, and gratitude log are implemented, they currently do not persist data beyond the session.
+## ⚠️ Known Issues  
+- No backend implementation (Firebase).  
+- Data is not stored permanently.  
 
-### Future Plans
-- Integrate Firebase for backend functionalities (user authentication, data storage, etc.).
-- Improve UI/UX design based on user feedback.
-- Add additional features like reminders, mood analytics, and more customization options for journaling.
-- Address performance issues and ensure smooth operation on both Android and iOS platforms.
+## 🔮 Future Enhancements  
+- Backend integration for data persistence.  
+- Reminders & mood analytics.  
+- UI/UX improvements and theme customization.  
 
-### Contributing
-If you would like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request. Contributions are welcome, especially if you can help with Firebase integration or other backend-related tasks.
-
-
----
-
-### Screenshots 
-
-Frontpage
-![Frontpage](assets/screenshots/PHOTO-2024-07-12-15-34-07.JPG)
-
-Login page
-![Login page](assets/screenshots/403955A9-D2E9-4336-A027-91A26B5DBE9D.png)
+## 🤝 Contributing  
+Contributions are welcome! If you'd like to help, fork the repo, create a new branch, and submit a pull request.  
